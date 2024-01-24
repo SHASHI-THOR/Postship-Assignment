@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Postship-Assignment/static/css/main.f9c074f1.css",
-    "main.js": "/Postship-Assignment/static/js/main.e568864c.js",
-    "static/js/787.ae859158.chunk.js": "/Postship-Assignment/static/js/787.ae859158.chunk.js",
-    "index.html": "/Postship-Assignment/index.html",
-    "main.f9c074f1.css.map": "/Postship-Assignment/static/css/main.f9c074f1.css.map",
-    "main.e568864c.js.map": "/Postship-Assignment/static/js/main.e568864c.js.map",
-    "787.ae859158.chunk.js.map": "/Postship-Assignment/static/js/787.ae859158.chunk.js.map"
+    "main.css": "/static/css/main.f9c074f1.css",
+    "main.js": "/static/js/main.84d64312.js",
+    "static/js/787.ae859158.chunk.js": "/static/js/787.ae859158.chunk.js",
+    "index.html": "/index.html",
+    "main.f9c074f1.css.map": "/static/css/main.f9c074f1.css.map",
+    "main.84d64312.js.map": "/static/js/main.84d64312.js.map",
+    "787.ae859158.chunk.js.map": "/static/js/787.ae859158.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c074f1.css",
-    "static/js/main.e568864c.js"
+    "static/js/main.84d64312.js"
   ]
 }
